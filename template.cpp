@@ -17,7 +17,7 @@ void maxx(T a,T b)
 main()
 {
     float n=9.8,m=9.9;
-    maxx("abi","shri");
+    maxx("abhi","sri");
     maxx(4,3);
     maxx(n,m);
 
