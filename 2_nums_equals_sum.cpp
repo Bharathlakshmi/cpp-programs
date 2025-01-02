@@ -1,4 +1,6 @@
- #include<iostream>
+//check if any 2 numbers in an array can sum to a number(n)
+
+#include<iostream>
 using namespace std;
 
 main()
