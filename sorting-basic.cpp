@@ -1,3 +1,5 @@
+//sort an array without using inbuilt function
+
 #include<iostream>
 using namespace std;
 main()
