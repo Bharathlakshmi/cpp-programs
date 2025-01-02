@@ -1,3 +1,5 @@
+//Fibonacci series
+
 #include<iostream>
 using namespace std;
 int fibo(int m)
@@ -20,8 +22,11 @@ main()
    cin>>n;
 
    //for(int i=0;i<=n;i++)
-      cout<<fibo(n);
+     
+    cout<<fibo(n);
 }
+
+
 
 /*
 
